@@ -1,0 +1,12 @@
+/* Global Styles =body =skins
+-------------------------------------------------------------- */
+body {background: #582f0a}
+/* =tag_bg =skins */
+.sub .tag_bg {background: url(../images/lab_GUI_1_0.png) -503px -412px no-repeat; /* Brown */}
+/* .catlink =skins */
+.catlink:hover {background: #582f0a; /* Brown */}
+/* .textlinkcolor =skins */
+.post a.textlinkcolor {color: #582f0a}
+/* =cs-buttons =skins */
+.cs-buttons a:hover,
+.cs-buttons a.cs-active {background: transparent url(../images/lab_GUI_1_0.png) -50px -210px no-repeat;}
